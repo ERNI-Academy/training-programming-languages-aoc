@@ -112,7 +112,7 @@ Simplemente ejecuta la aplicación instalada.
 
 2. En la barra de búsqueda, escribir:
 
-&nbsp;  **Extension Pack for Java**
+    **Extension Pack for Java**
 
 3. Hacer clic en **Install**.
 
@@ -178,11 +178,11 @@ El paquete instala:
 
 public class Hello {
 
-&nbsp;   public static void main(String[] args) {
+  public static void main(String[] args) {
 
-&nbsp;       System.out.println("Hello, world!");
+    System.out.println("Hello, world!");
 
-&nbsp;   }
+  }
 
 }
 
