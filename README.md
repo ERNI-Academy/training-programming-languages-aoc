@@ -20,4 +20,4 @@ Pick, go to the respective folder, and start your learning journey with the READ
 
 Feel free to reach out to the respective instructors for more guidance and support:
 
-- Python: [Enric Domingo](https://github.com/enricdomingo)
+- Python: [Enric Domingo](https://github.com/enricd)
